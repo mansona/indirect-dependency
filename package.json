@@ -21,6 +21,7 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
+    "direct-dependency": "github:mansona/direct-dependency",
     "ember-cli-babel": "^6.16.0"
   },
   "devDependencies": {
